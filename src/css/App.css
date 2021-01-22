@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('../fonts/kaiu.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'MyWebFont', Fallback, sans-serif;
+}
+
+h1{
+    color:red;
+}
+
+img {
+  border-radius: 30px;
+}
